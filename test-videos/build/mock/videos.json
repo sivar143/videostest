@@ -1,0 +1,10 @@
+{
+    "links": [
+        { 
+            "id": 1,
+            "mainVideo": "./assets/videos/short.mp4",
+        	"adsVideo": "./assets/videos/add.mp4"
+        }
+        
+    ]
+}
